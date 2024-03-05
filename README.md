@@ -1,5 +1,7 @@
 # Epicure AI: Advanced Data Science Project
 
+Developed by Arthur Choisnet, Marcel Hoene & Joaquín Ortega.
+
 # 🚀 Description
 Epicure AI is an advanced, AI-driven culinary application designed to revolutionize cooking experiences. By utilizing AI to analyze photographs of available ingredients, the app crafts personalized recipes that cater to the user's dietary needs, allergies, intolerances, and available kitchen equipment. This innovative project features a FastAPI backend, YOLO-based ingredient recognition, and a sleek Streamlit user interface.
 
